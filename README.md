@@ -1,3 +1,3 @@
 # Game-Launcher
 
-A usual Game Launcher.
+An usual Game Launcher.
