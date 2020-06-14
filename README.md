@@ -8,5 +8,9 @@ After that, go to the directory where you installed the Game Launcher and execut
 # Contact
 If you found bugs, have an idea or just want to contact us, you can send us an email.
 
-felix@pepytizing.tk
-benjamin@pepytizing.tk
+<a href="mailto:felix@pepytizing.tk?subject=Game%20Launcher">
+    felix@pepytizing.tk
+</a>
+<a href="mailto:benjamin@pepytizing.tk?subject=Game%20Launcher">
+    benjamin@pepytizing.tk
+</a>
